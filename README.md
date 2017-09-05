@@ -16,6 +16,7 @@ This README organizes all my main projects in one place.
 ### JavaScript
 
 | Week  | Project       | Description                  | Repository  |
+| ----- | ------------- | ---------------------------- | ------------ |
 | 1 | **Medical Search** | A website that searches doctors in Portland by medical issue. The objective of this project was to make an API call and display the data. Built with HTML, SASS, JavaScript, and jQuery. | [Link](https://github.com/TylerJAllen/medical) |
 | 2 | **Beast Friends** | A website of a local zoo where users can view a list of animals, add an animal, edit an animal, and filter by age. Built with Angular2-CLI, HTML, CSS, and Typescript.  | [Link](https://github.com/TylerJAllen/local-zoo) |
 | 3  |**Club Manager**  | Web application built with Angular2-CLI that allows administrators to edit, add, and remove members of a club and save that information to a server (Firebase). | [Link](https://github.com/TylerJAllen/club-manager)  |
