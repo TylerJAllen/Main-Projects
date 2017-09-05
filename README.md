@@ -8,10 +8,10 @@ This README organizes all my main projects in one place.
 
 ## Projects
 
-### Personal Portfolio:
-* A website for a personal portfolio created with Sass, Bourbon, Neat, and Flexbox, incorporating animations and transformations.
+<!-- ### Personal Portfolio:
+* A website for a personal portfolio created with [insert technologies], incorporating animations and transformations.
 * [Link]()  
-* [live-demo]()  
+* [live-demo]()   -->
 
 ### JavaScript
 
